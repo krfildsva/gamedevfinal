@@ -1,4 +1,4 @@
-# gamedevfinal
+# Memory Card Matching Game
 Welcome to the Memory Card Matching Game! This is a fun and challenging game designed to test your memory and concentration skills. Built using the pygame library, this game offers a visually appealing and interactive experience.
 
 ## Features
